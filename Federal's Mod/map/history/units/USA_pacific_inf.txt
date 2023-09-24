@@ -1,0 +1,985 @@
+﻿	division_template = {
+		name = "PACIFIC CONVERT"
+		regiments = {
+			infantry = { x = 0 y = 0 }		
+		}
+		support = {	}
+	}
+
+	units = {
+		division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+	division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+			division = {	
+			start_equipment_factor = 0.01 start_experience_factor = 0.3
+			location = 4241
+			division_template = "PACIFIC CONVERT"
+			force_equipment_variants = { infantry_equipment_0 = { owner = "USA" } }
+		}	
+
+
+
+
+
+
+
+
+
+		
+	}
+	

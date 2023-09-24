@@ -1,0 +1,41 @@
+ideas = {
+
+	country = {
+	southern_pride = {
+			picture = southern_pride
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				war_support_factor = 0.10
+				stability_factor = 0.10
+				army_core_defence_factor = 0.05
+			}
+		}
+		rural_economy = {
+			picture = rural_economy
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.2
+				conscription_factor = -0.2
+				local_resources_factor = -0.2
+			}
+		}

@@ -1,0 +1,14 @@
+characters={
+	SWE_alexander_shad={
+		name="Alexander Shad"
+		portraits={
+			civilian={
+				large="gfx/leaders/SWE/GFX_shad.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			traits={ closeted_homo protector_of_islam }
+			expire="1965.1.1.1"
+			id=-1
+		}

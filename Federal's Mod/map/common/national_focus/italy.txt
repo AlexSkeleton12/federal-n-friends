@@ -1,0 +1,110 @@
+﻿focus_tree = {
+	id = italian_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = ITA
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 50 y = 1100 }
+
+	focus = {
+		id = ITA_affrontare_economia
+		icon = GFX_focus_generic_treaty
+		available_if_capitulated = yes
+
+		x = 15
+		y = 5
+		cost = 5
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+				add_tech_bonus = {
+				name = affrontare_economia
+				bonus = 1.0
+				uses = 2
+				category = industry
+			}
+			add_idea = economia_rettificata
+		}
+		
+	}
+
+	focus = {
+		id = ITA_results_of_ethiopia
+		icon = GFX_goal_generic_propaganda
+		available = {
+			OR = {
+				owns_state = 271
+				ETH = { is_puppet_of = ITA }
+			}
+		}
+		
+		bypass = {
+
+		}
+
+		available_if_capitulated = yes
+
+		x = 30
+		y = 1
+		cost = 3
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+			army_experience = 10
+
+			add_idea = italian_military_incompetence
+			
+			add_doctrine_cost_reduction = {
+				name = land_doc_bonus
+				cost_reduction = 1
+				uses = 1
+				category = land_doctrine
+			}
+			add_idea = italian_military_incompetence
+		}
+	}
+
+	
+	focus = {
+		id = ITA_proclaim_the_empire
+		icon = GFX_focus_ger_assassinate_mussolini
+		available = {
+			OR = {
+				owns_state = 271
+				ETH = { is_puppet_of = ITA }
+			}
+		}
+		
+		bypass = {
+			ETH = { exists = yes }
+			NOT = { has_war_with = ETH }
+		}
+
+		available_if_capitulated = yes
+
+		x = 20
+		y = 1
+		cost = 1
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+			add_stability = 0.1
+			add_war_support = 0.15
+		}
+		hidden_effect = {
+				}
+				sound_effect = HGDU_italy_liberation
+		}
+	}
+	

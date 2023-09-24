@@ -1,0 +1,203 @@
+﻿focus_tree = {
+	id = sweden_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = SWE
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 150 y = 1100 }
+
+	focus = {
+		id = free_and_fair
+		icon = GFX_goal_generic_support_democracy
+		x = 20
+		y = 2
+	
+		bypass = {
+
+		}
+		
+		available = {
+			NOT = 
+		}
+		
+		cost = 1
+		prerequisite = { focus = speech_to_the_people }
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_stability = 0.01
+			add_political_power = 120
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 1
+			}
+		}
+	}
+	focus = {
+		id = speech_to_the_people
+		icon = GFX_goal_generic_forceful_treaty
+		x = 20
+		y = 0
+	
+		bypass = {
+
+		}
+		
+		available = {
+			NOT = 
+		}
+		
+		cost = 1
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_stability = 0.05
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 1
+			}
+		}
+	}
+		focus = {
+		id = young_minds
+		icon = GFX_focus_research
+		x = 13
+		y = 2
+	
+		bypass = {
+
+		}
+		
+		available = {
+			NOT = 
+		}
+		
+		cost = 5
+		prerequisite = { focus = improving_our_industry }
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_research_slot = 1
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 1
+			}
+		}
+	}
+	
+	focus = {
+		id = improving_our_industry
+		icon = GFX_focus_generic_industry_1
+		x = -5
+		y = 1
+		relative_position_id = speech_to_the_people
+		bypass = {
+
+		}
+		
+		available = {
+			NOT = 
+		}
+		
+		cost = 5
+		prerequisite = { focus = speech_to_the_people }
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		completion_reward = {
+			add_tech_bonus = {
+				name = industrial_bonus
+				bonus = 0.5
+				uses = 2
+				category = industry
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 1
+			}
+		}
+	}
+}	
+	focus = {
+		id = civilian_market
+		icon = GFX_focus_generic_industry_1
+		x = -5
+		y = 2
+		relative_position_id = speech_to_the_people
+		bypass = {
+
+		}
+		
+		available = {
+			NOT = 
+		}
+		
+		cost = 5
+		prerequisite = { focus = improving_our_industry }
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		completion_reward = {
+				random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = industrial_complex
+						size > 0
+						include_locked = yes
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = industrial_complex
+										size > 0
+										include_locked = yes
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_extra_state_shared_building_slots = 2
+				add_building_construction = {
+					type = industrial_complex
+					level = 1
+					instant_build = yes
+				}
+			}
+		}
+	}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 1
+			}
+		}
+	}
+}

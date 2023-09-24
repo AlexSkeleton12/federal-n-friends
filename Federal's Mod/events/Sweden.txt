@@ -1,0 +1,27 @@
+﻿###########################
+# Sweden Events
+###########################
+
+add_namespace = swe
+
+#########################################################
+#################### 1936 Events ########################
+#########################################################
+
+country_event = { #banana crisis
+	id = swe.0
+	title swe.0.t
+	desc = swe.0.d
+	picture = 
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1936.1.20
+		
+	option = { 
+		name = swe.0.a
+		add_stability = -0.5
+		add_war_support = -0.5
+		add_ideas = SWE_banana_absence
+}

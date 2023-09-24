@@ -1,0 +1,24 @@
+﻿focus = {
+		id = exist
+		icon = GFX_focus_generic_treaty
+		available = {
+		
+		}
+		
+		bypass = {
+			
+		}
+
+		available_if_capitulated = yes
+
+		x = 15
+		y = 5
+		cost = 100
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+			political_power = 120
+		}
+		
+	}
